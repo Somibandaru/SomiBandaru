@@ -45,3 +45,8 @@
 </div>
 
 ###
+🚀 Projects:
+- 🔒 **[Automated Redaction System](https://github.com/Somibandaru/RedactorAI)** – Built with Streamlit + Hugging Face + PATE-GAN
+- 🧠 **[ThyroLead](https://github.com/Somibandaru/ThyroLead)** – ML + Flask + Node + MongoDB + Maps
+- 🐾 **[PawPals](https://github.com/Somibandaru/PawPals)** – Fun React game for kids with animal merging & drag-n-drop
+
